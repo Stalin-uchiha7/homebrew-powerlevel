@@ -1,6 +1,6 @@
 cask "powerlevel" do
-  version "0.2.0"
-  sha256 "40edaeac4e4c7cc6a804c1263bcf79addafabf0545446674c5be6e481ecdf63b"
+  version "0.3.0"
+  sha256 "8096707791d698e80b652549eaba6894ae9e7cdb3ac303005bbf5fc655be5bba"
 
   url "https://github.com/Stalin-uchiha7/PowerLevel/releases/download/v#{version}/PowerLevel-#{version}.zip"
   name "Power Level"
